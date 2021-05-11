@@ -1,0 +1,9 @@
+{
+	"description": "This is a simple project to demonstrate how to setup a database/ table using the illuminate/database package and then pull vehicles from carvana using the php-curl-class/php-curl-class package.",
+	"name": "brian-bnhdigital/consumer-edge-interview-test",
+    "require": {
+        "php-curl-class/php-curl-class": "^9.1",
+        "illuminate/database": "^8.41",
+		"illuminate/events": "^8.41"
+    }
+}
